@@ -1,6 +1,3 @@
-Here is your content properly converted into **clean GitHub Markdown format**:
-
-```markdown
 # 📊 FB_MJD Sales Analysis Dashboard
 
 ## 🧾 Project Overview  
